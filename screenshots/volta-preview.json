@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VOLTA",
+      "hasCanvas": false,
+      "bodyTextLen": 667,
+      "bodyTextHash": "3e3d551208476ae3313f5ea208a03eb76bbe4c4b2123415df3fb6bbcbaa364f9",
+      "bodyTextPrefix": "VOLTA 153% Netlist Examples Diode half-wave CMOS inverter RC low",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/volta-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VOLTA",
+      "hasCanvas": false,
+      "bodyTextLen": 401,
+      "bodyTextHash": "d51822375f841572c9ed0dd6309f290106a9d4fab0c2aae8696d64c8d674e0eb",
+      "bodyTextPrefix": "VOLTA 153% Netlist Examples Diode half-wave CMOS inverter RC low",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/volta-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/volta-preview.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VOLTA",
+      "hasCanvas": false,
+      "bodyTextLen": 834,
+      "bodyTextHash": "a49b78d3a83456e80fb762375c4a22253ef99f6a66c8de274e4a6350b89cd4f2",
+      "bodyTextPrefix": "VOLTA 209% Netlist Examples RC low-pass Series RLC Voltage divid",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VOLTA",
+      "hasCanvas": false,
+      "bodyTextLen": 427,
+      "bodyTextHash": "2b64c159919f0dfdad61d339854d5aa2e884805bb0713d8d96715ee58e22f480",
+      "bodyTextPrefix": "VOLTA 153% Netlist Examples RC low-pass Series RLC Voltage divid",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

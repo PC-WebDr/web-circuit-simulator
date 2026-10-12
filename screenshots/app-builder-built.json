@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VOLTA",
+      "hasCanvas": false,
+      "bodyTextLen": 629,
+      "bodyTextHash": "2e60c50906744da60f0819e637ea837134e3f76dc9ae34231c23fb82bdf378c3",
+      "bodyTextPrefix": "VOLTA 153% Netlist Examples RC low-pass Series RLC Voltage divid",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VOLTA",
+      "hasCanvas": false,
+      "bodyTextLen": 363,
+      "bodyTextHash": "a6234aadab86ce533261c12cc8dd6c72aed9d5b1d314cc672312a290aa149b2c",
+      "bodyTextPrefix": "VOLTA 153% Netlist Examples RC low-pass Series RLC Voltage divid",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (834 -> 629 chars, hash mismatch)",
+    "mobile: body text changed (427 -> 363 chars, hash mismatch)"
+  ]
+}
